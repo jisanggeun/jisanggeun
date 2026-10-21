@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=230&section=header&text=SangGeun%20Ji&fontSize=50&fontAlignY=40&desc=MLOps%20|%20Backend%20|%20Infra&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=230&section=header&text=SangGeun%20Ji&fontSize=50&fontAlignY=40&desc=Edge AI%20|%20AI%20|%20Computer Vision&descAlignY=65)
 
 ## 📊 GitHub Stats
 
